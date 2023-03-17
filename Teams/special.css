@@ -4,6 +4,7 @@
     padding: 0;
     scroll-behavior: smooth;
     background-color:  aliceblue;
+   
 }
 .navbar {
     /* height: 150px;
@@ -71,6 +72,7 @@ h1 {
     padding: 0;
     
     box-sizing: border-box;
+
     
     }
     
@@ -98,7 +100,7 @@ h1 {
         
         gap: 1em;
         
-        font-size: 18px;
+        font-size: 100px;
         
         }
         
@@ -119,5 +121,16 @@ h1 {
         }
 
         * {
-            font-size: 35px;
+            font-size: 50px;
         }
+
+        img {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 750px;
+            mix-blend-mode: multiply;
+            display: block;
+            margin-left: 40px;
+            margin-right: 80px;
+          }

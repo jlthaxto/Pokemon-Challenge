@@ -119,5 +119,17 @@ h1 {
         }
 
         * {
-            font-size: 35px;
+            font-size: 50px;
         }
+
+
+        img {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 750px;
+            mix-blend-mode: multiply;
+            display: block;
+            margin-left: 40px;
+            margin-right: 80px;
+          }
